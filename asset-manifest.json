@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/robo/static/css/main.57852642.css",
+    "main.js": "/robo/static/js/main.cc20673e.js",
+    "static/js/787.32032a02.chunk.js": "/robo/static/js/787.32032a02.chunk.js",
+    "index.html": "/robo/index.html",
+    "main.57852642.css.map": "/robo/static/css/main.57852642.css.map",
+    "main.cc20673e.js.map": "/robo/static/js/main.cc20673e.js.map",
+    "787.32032a02.chunk.js.map": "/robo/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57852642.css",
+    "static/js/main.cc20673e.js"
+  ]
+}
